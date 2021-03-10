@@ -1,0 +1,17 @@
+
+Address page :
+--Chevron to select different State(new feature).
+
+Connect bank account screen :
+--Verify visibility of text "A Bank level Security 256 bit encryption".
+
+Get out of debt quicker screen:
+-- Verify visibility of text "Bright memebership is free for 14 days ,$999/month afterwards".
+
+Select checking account screen:
+
+--link different account->again choosing same bank->pop up saying looks like bank already exist.
+
+plaid screen:
+-- reset password option enabled.
+  
