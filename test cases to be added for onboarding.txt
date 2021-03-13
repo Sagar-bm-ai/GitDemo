@@ -1,4 +1,4 @@
-first lear git man!!!
+first learn git man!!!
 Address page :
 --Chevron to select different State(new feature).
 
@@ -15,3 +15,5 @@ Select checking account screen:
 plaid screen:
 -- reset password option enabled.
   
+git checkout -b <branchname> this command is used to checkout i.e. come out of current branch and 
+create a new branch and enter that branch. 
