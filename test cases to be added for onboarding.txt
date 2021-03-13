@@ -17,3 +17,8 @@ plaid screen:
   
 git checkout -b <branchname> this command is used to checkout i.e. come out of current branch and 
 create a new branch and enter that branch. 
+
+git checkout <branchname> this command is used to chechout to a new different branch
+ 
+
+git branch command tells you that on which branch you currently are 
